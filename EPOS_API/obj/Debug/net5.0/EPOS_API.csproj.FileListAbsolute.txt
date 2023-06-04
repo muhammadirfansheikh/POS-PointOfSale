@@ -1,0 +1,106 @@
+E:\Ammar Projects\EPOS_Gen4\Backend\EPOS_API\EPOS_API\bin\Debug\net5.0\appsettings.Development.json
+E:\Ammar Projects\EPOS_Gen4\Backend\EPOS_API\EPOS_API\bin\Debug\net5.0\appsettings.json
+E:\Ammar Projects\EPOS_Gen4\Backend\EPOS_API\EPOS_API\bin\Debug\net5.0\EPOS_API.exe
+E:\Ammar Projects\EPOS_Gen4\Backend\EPOS_API\EPOS_API\bin\Debug\net5.0\EPOS_API.deps.json
+E:\Ammar Projects\EPOS_Gen4\Backend\EPOS_API\EPOS_API\bin\Debug\net5.0\EPOS_API.runtimeconfig.json
+E:\Ammar Projects\EPOS_Gen4\Backend\EPOS_API\EPOS_API\bin\Debug\net5.0\EPOS_API.runtimeconfig.dev.json
+E:\Ammar Projects\EPOS_Gen4\Backend\EPOS_API\EPOS_API\bin\Debug\net5.0\EPOS_API.dll
+E:\Ammar Projects\EPOS_Gen4\Backend\EPOS_API\EPOS_API\bin\Debug\net5.0\ref\EPOS_API.dll
+E:\Ammar Projects\EPOS_Gen4\Backend\EPOS_API\EPOS_API\bin\Debug\net5.0\EPOS_API.pdb
+E:\Ammar Projects\EPOS_Gen4\Backend\EPOS_API\EPOS_API\obj\Debug\net5.0\EPOS_API.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ammar Projects\EPOS_Gen4\Backend\EPOS_API\EPOS_API\obj\Debug\net5.0\EPOS_API.AssemblyInfoInputs.cache
+E:\Ammar Projects\EPOS_Gen4\Backend\EPOS_API\EPOS_API\obj\Debug\net5.0\EPOS_API.AssemblyInfo.cs
+E:\Ammar Projects\EPOS_Gen4\Backend\EPOS_API\EPOS_API\obj\Debug\net5.0\EPOS_API.csproj.CoreCompileInputs.cache
+E:\Ammar Projects\EPOS_Gen4\Backend\EPOS_API\EPOS_API\obj\Debug\net5.0\EPOS_API.MvcApplicationPartsAssemblyInfo.cache
+E:\Ammar Projects\EPOS_Gen4\Backend\EPOS_API\EPOS_API\obj\Debug\net5.0\staticwebassets\EPOS_API.StaticWebAssets.Manifest.cache
+E:\Ammar Projects\EPOS_Gen4\Backend\EPOS_API\EPOS_API\obj\Debug\net5.0\staticwebassets\EPOS_API.StaticWebAssets.xml
+E:\Ammar Projects\EPOS_Gen4\Backend\EPOS_API\EPOS_API\obj\Debug\net5.0\scopedcss\bundle\EPOS_API.styles.css
+E:\Ammar Projects\EPOS_Gen4\Backend\EPOS_API\EPOS_API\obj\Debug\net5.0\EPOS_API.RazorTargetAssemblyInfo.cache
+E:\Ammar Projects\EPOS_Gen4\Backend\EPOS_API\EPOS_API\obj\Debug\net5.0\EPOS_API.dll
+E:\Ammar Projects\EPOS_Gen4\Backend\EPOS_API\EPOS_API\obj\Debug\net5.0\ref\EPOS_API.dll
+E:\Ammar Projects\EPOS_Gen4\Backend\EPOS_API\EPOS_API\obj\Debug\net5.0\EPOS_API.pdb
+E:\Ammar Projects\EPOS_Gen4\Backend\EPOS_API\EPOS_API\obj\Debug\net5.0\EPOS_API.genruntimeconfig.cache
+E:\Ammar Projects\EPOS_Gen4\Backend\EPOS_API\EPOS_API\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Ammar Projects\EPOS_Gen4\Backend\EPOS_API\EPOS_API\obj\Debug\net5.0\EPOS_API.csproj.CopyComplete
+E:\Ammar Projects\EPOS_Gen4\Backend\EPOS_API\EPOS_API\obj\Debug\net5.0\EPOS_API.csprojAssemblyReference.cache
+E:\Ammar Projects\EPOS_Gen4\Backend\Concave_EPOS_API\EPOS_API\bin\Debug\net5.0\appsettings.Development.json
+E:\Ammar Projects\EPOS_Gen4\Backend\Concave_EPOS_API\EPOS_API\bin\Debug\net5.0\appsettings.json
+E:\Ammar Projects\EPOS_Gen4\Backend\Concave_EPOS_API\EPOS_API\bin\Debug\net5.0\EPOS_API.exe
+E:\Ammar Projects\EPOS_Gen4\Backend\Concave_EPOS_API\EPOS_API\bin\Debug\net5.0\EPOS_API.deps.json
+E:\Ammar Projects\EPOS_Gen4\Backend\Concave_EPOS_API\EPOS_API\bin\Debug\net5.0\EPOS_API.runtimeconfig.json
+E:\Ammar Projects\EPOS_Gen4\Backend\Concave_EPOS_API\EPOS_API\bin\Debug\net5.0\EPOS_API.runtimeconfig.dev.json
+E:\Ammar Projects\EPOS_Gen4\Backend\Concave_EPOS_API\EPOS_API\bin\Debug\net5.0\EPOS_API.dll
+E:\Ammar Projects\EPOS_Gen4\Backend\Concave_EPOS_API\EPOS_API\bin\Debug\net5.0\ref\EPOS_API.dll
+E:\Ammar Projects\EPOS_Gen4\Backend\Concave_EPOS_API\EPOS_API\bin\Debug\net5.0\EPOS_API.pdb
+E:\Ammar Projects\EPOS_Gen4\Backend\Concave_EPOS_API\EPOS_API\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Ammar Projects\EPOS_Gen4\Backend\Concave_EPOS_API\EPOS_API\obj\Debug\net5.0\EPOS_API.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ammar Projects\EPOS_Gen4\Backend\Concave_EPOS_API\EPOS_API\obj\Debug\net5.0\EPOS_API.AssemblyInfoInputs.cache
+E:\Ammar Projects\EPOS_Gen4\Backend\Concave_EPOS_API\EPOS_API\obj\Debug\net5.0\EPOS_API.AssemblyInfo.cs
+E:\Ammar Projects\EPOS_Gen4\Backend\Concave_EPOS_API\EPOS_API\obj\Debug\net5.0\EPOS_API.csproj.CoreCompileInputs.cache
+E:\Ammar Projects\EPOS_Gen4\Backend\Concave_EPOS_API\EPOS_API\obj\Debug\net5.0\EPOS_API.MvcApplicationPartsAssemblyInfo.cache
+E:\Ammar Projects\EPOS_Gen4\Backend\Concave_EPOS_API\EPOS_API\obj\Debug\net5.0\staticwebassets\EPOS_API.StaticWebAssets.Manifest.cache
+E:\Ammar Projects\EPOS_Gen4\Backend\Concave_EPOS_API\EPOS_API\obj\Debug\net5.0\staticwebassets\EPOS_API.StaticWebAssets.xml
+E:\Ammar Projects\EPOS_Gen4\Backend\Concave_EPOS_API\EPOS_API\obj\Debug\net5.0\scopedcss\bundle\EPOS_API.styles.css
+E:\Ammar Projects\EPOS_Gen4\Backend\Concave_EPOS_API\EPOS_API\obj\Debug\net5.0\EPOS_API.RazorTargetAssemblyInfo.cache
+E:\Ammar Projects\EPOS_Gen4\Backend\Concave_EPOS_API\EPOS_API\obj\Debug\net5.0\EPOS_API.csproj.CopyComplete
+E:\Ammar Projects\EPOS_Gen4\Backend\Concave_EPOS_API\EPOS_API\obj\Debug\net5.0\EPOS_API.dll
+E:\Ammar Projects\EPOS_Gen4\Backend\Concave_EPOS_API\EPOS_API\obj\Debug\net5.0\ref\EPOS_API.dll
+E:\Ammar Projects\EPOS_Gen4\Backend\Concave_EPOS_API\EPOS_API\obj\Debug\net5.0\EPOS_API.pdb
+E:\Ammar Projects\EPOS_Gen4\Backend\Concave_EPOS_API\EPOS_API\obj\Debug\net5.0\EPOS_API.genruntimeconfig.cache
+E:\Ammar Projects\EPOS_Gen4\Backend\Concave_EPOS_API\EPOS_API\bin\Debug\net5.0\Dapper.dll
+E:\Ammar Projects\EPOS_Gen4\Backend\Concave_EPOS_API\EPOS_API\bin\Debug\net5.0\System.Data.SqlClient.dll
+E:\Ammar Projects\EPOS_Gen4\Backend\Concave_EPOS_API\EPOS_API\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+E:\Ammar Projects\EPOS_Gen4\Backend\Concave_EPOS_API\EPOS_API\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+E:\Ammar Projects\EPOS_Gen4\Backend\Concave_EPOS_API\EPOS_API\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+E:\Ammar Projects\EPOS_Gen4\Backend\Concave_EPOS_API\EPOS_API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Ammar Projects\EPOS_Gen4\Backend\Concave_EPOS_API\EPOS_API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Ammar Projects\EPOS_Gen4\Backend\Concave_EPOS_API\EPOS_API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Ammar Projects\EPOS_Gen4\Backend\Concave_EPOS_API\EPOS_API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Ammar Projects\EPOS_Gen4\Backend\Concave_EPOS_API\EPOS_API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Ammar Projects\EPOS_Gen4\Backend\Concave_EPOS_API\EPOS_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Ammar Projects\EPOS_Gen4\Backend\Concave_EPOS_API\EPOS_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Ammar Projects\EPOS_Gen4\Backend\Concave_EPOS_API\EPOS_API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Ammar Projects\EPOS_Gen4\Backend\Concave_EPOS_API\EPOS_API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Ammar Projects\EPOS_Gen4\Backend\Concave_EPOS_API\EPOS_API\bin\Debug\net5.0\BCrypt.Net-Next.dll
+D:\Projects\Concave\Concave_EPOS_API\EPOS_API\obj\Debug\net5.0\EPOS_API.csproj.AssemblyReference.cache
+D:\Projects\Concave\Concave_EPOS_API\EPOS_API\obj\Debug\net5.0\EPOS_API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Concave\Concave_EPOS_API\EPOS_API\obj\Debug\net5.0\EPOS_API.AssemblyInfoInputs.cache
+D:\Projects\Concave\Concave_EPOS_API\EPOS_API\obj\Debug\net5.0\EPOS_API.AssemblyInfo.cs
+D:\Projects\Concave\Concave_EPOS_API\EPOS_API\obj\Debug\net5.0\EPOS_API.csproj.CoreCompileInputs.cache
+D:\Projects\Concave\Concave_EPOS_API\EPOS_API\obj\Debug\net5.0\EPOS_API.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\Concave\Concave_EPOS_API\EPOS_API\bin\Debug\net5.0\appsettings.Development.json
+D:\Projects\Concave\Concave_EPOS_API\EPOS_API\bin\Debug\net5.0\appsettings.json
+D:\Projects\Concave\Concave_EPOS_API\EPOS_API\bin\Debug\net5.0\EPOS_API.exe
+D:\Projects\Concave\Concave_EPOS_API\EPOS_API\bin\Debug\net5.0\EPOS_API.deps.json
+D:\Projects\Concave\Concave_EPOS_API\EPOS_API\bin\Debug\net5.0\EPOS_API.runtimeconfig.json
+D:\Projects\Concave\Concave_EPOS_API\EPOS_API\bin\Debug\net5.0\EPOS_API.runtimeconfig.dev.json
+D:\Projects\Concave\Concave_EPOS_API\EPOS_API\bin\Debug\net5.0\EPOS_API.dll
+D:\Projects\Concave\Concave_EPOS_API\EPOS_API\bin\Debug\net5.0\ref\EPOS_API.dll
+D:\Projects\Concave\Concave_EPOS_API\EPOS_API\bin\Debug\net5.0\EPOS_API.pdb
+D:\Projects\Concave\Concave_EPOS_API\EPOS_API\bin\Debug\net5.0\BCrypt.Net-Next.dll
+D:\Projects\Concave\Concave_EPOS_API\EPOS_API\bin\Debug\net5.0\Dapper.dll
+D:\Projects\Concave\Concave_EPOS_API\EPOS_API\bin\Debug\net5.0\ExcelDataReader.dll
+D:\Projects\Concave\Concave_EPOS_API\EPOS_API\bin\Debug\net5.0\ExcelDataReader.DataSet.dll
+D:\Projects\Concave\Concave_EPOS_API\EPOS_API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Projects\Concave\Concave_EPOS_API\EPOS_API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projects\Concave\Concave_EPOS_API\EPOS_API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Projects\Concave\Concave_EPOS_API\EPOS_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Projects\Concave\Concave_EPOS_API\EPOS_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projects\Concave\Concave_EPOS_API\EPOS_API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Projects\Concave\Concave_EPOS_API\EPOS_API\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Projects\Concave\Concave_EPOS_API\EPOS_API\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\Projects\Concave\Concave_EPOS_API\EPOS_API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Projects\Concave\Concave_EPOS_API\EPOS_API\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\Projects\Concave\Concave_EPOS_API\EPOS_API\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\Projects\Concave\Concave_EPOS_API\EPOS_API\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\Projects\Concave\Concave_EPOS_API\EPOS_API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Projects\Concave\Concave_EPOS_API\EPOS_API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Projects\Concave\Concave_EPOS_API\EPOS_API\obj\Debug\net5.0\staticwebassets\EPOS_API.StaticWebAssets.Manifest.cache
+D:\Projects\Concave\Concave_EPOS_API\EPOS_API\obj\Debug\net5.0\staticwebassets\EPOS_API.StaticWebAssets.xml
+D:\Projects\Concave\Concave_EPOS_API\EPOS_API\obj\Debug\net5.0\scopedcss\bundle\EPOS_API.styles.css
+D:\Projects\Concave\Concave_EPOS_API\EPOS_API\obj\Debug\net5.0\EPOS_API.RazorTargetAssemblyInfo.cache
+D:\Projects\Concave\Concave_EPOS_API\EPOS_API\obj\Debug\net5.0\EPOS_API.csproj.CopyComplete
+D:\Projects\Concave\Concave_EPOS_API\EPOS_API\obj\Debug\net5.0\EPOS_API.dll
+D:\Projects\Concave\Concave_EPOS_API\EPOS_API\obj\Debug\net5.0\ref\EPOS_API.dll
+D:\Projects\Concave\Concave_EPOS_API\EPOS_API\obj\Debug\net5.0\EPOS_API.pdb
+D:\Projects\Concave\Concave_EPOS_API\EPOS_API\obj\Debug\net5.0\EPOS_API.genruntimeconfig.cache

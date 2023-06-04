@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/EPOS_API/obj/Debug/net5.0/EPOS_API.csproj.AssemblyReference.cache
+/EPOS_API/.vs/EPOS_API/DesignTimeBuild/.dtbcache.v2
+/EPOS_API/obj/Release/net5.0
+/EPOS_API/wwwroot/ProductImages
+
+
